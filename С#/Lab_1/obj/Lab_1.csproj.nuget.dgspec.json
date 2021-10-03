@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\С#\\Programming_Sharp\\Lab_1\\Lab_1.csproj": {}
+    "D:\\Programming\\С#\\Lab_1\\Lab_1.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\С#\\Programming_Sharp\\Lab_1\\Lab_1.csproj": {
+    "D:\\Programming\\С#\\Lab_1\\Lab_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\С#\\Programming_Sharp\\Lab_1\\Lab_1.csproj",
+        "projectUniqueName": "D:\\Programming\\С#\\Lab_1\\Lab_1.csproj",
         "projectName": "Lab_1",
-        "projectPath": "D:\\Programming\\С#\\Programming_Sharp\\Lab_1\\Lab_1.csproj",
+        "projectPath": "D:\\Programming\\С#\\Lab_1\\Lab_1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\С#\\Programming_Sharp\\Lab_1\\obj\\",
+        "outputPath": "D:\\Programming\\С#\\Lab_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

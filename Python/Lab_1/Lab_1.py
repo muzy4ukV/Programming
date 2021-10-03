@@ -7,15 +7,16 @@ perimeter = 0
 area = 0
 
 def get_point(a):                               # функція для перетворення елементів списку в формат float
+    b = a.split()
     return list(map(lambda x: float(x), b))
 
 frst = get_point(input("Введіть  координати першої вершини через пробіл:")) # Введення даних з консолі
 scnd = get_point(input("Введіть  координати другої вершини через пробіл:"))
 thrd = get_point(input("Введіть  координати третьої вершини через пробіл:"))
 
-dist_1 = sqrt((frst[0] - frst[1]) ** 2 + (scnd[0] - scnd[1]) ** 2) # обчислення дивжин сторін трикутника
-dist_2 = sqrt((scnd[0] - scnd[1]) ** 2 + (thrd[0] - thrd[1]) ** 2)
-dist_3 = sqrt((thrd[0] - thrd[1]) ** 2 + (frst[0] - frst[1]) ** 2)
+dist_1 = sqrt((frst[1] - frst[0]) ** 2 + (scnd[1] - scnd[0]) ** 2) # обчислення дивжин сторін трикутника
+dist_2 = sqrt((scnd[1] - scnd[0]) ** 2 + (thrd[1] - thrd[0]) ** 2)
+dist_3 = sqrt((thrd[1] - thrd[0]) ** 2 + (frst[1] - frst[0]) ** 2)
 
 def get_perimeter(a, b, c): # функція для знаходження периметру
     perimeter = a + b + c
