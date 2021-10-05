@@ -2,11 +2,10 @@
 
 namespace Lab_1
 {
-    class Program
+    class Lab_1
     {
         static void Main()
         {
-
             Console.WriteLine("Введіть  координату x першої вершини:");    // вводимо дані
             int x1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введіть  координату y першої вершини:");
