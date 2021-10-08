@@ -1,0 +1,14 @@
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.exe
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.deps.json
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.json
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.dev.json
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.dll
+D:\КПІ\Programming\С#\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.pdb
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csproj.AssemblyReference.cache
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfoInputs.cache
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfo.cs
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csproj.CoreCompileInputs.cache
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.dll
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.pdb
+D:\КПІ\Programming\С#\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.genruntimeconfig.cache
