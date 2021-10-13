@@ -20,7 +20,7 @@ namespace Lab_4
                 ri = a + (i * h);
                 rn[i - 1] = ri;
             }
-            foreach (double v in rn)                             //Виведення масиву
+            foreach (double v in rn)                               //Виведення масиву
             {
                 Console.Write(v.ToString() + " ");
             }
