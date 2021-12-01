@@ -1,0 +1,5 @@
+﻿  Lab_6.cpp
+D:\КПІ\Programming\C++\Lab_6\Lab_6.cpp(36,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\КПІ\Programming\C++\Lab_6\Lab_6.cpp(36,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\КПІ\Programming\C++\Lab_6\Lab_6.cpp(36,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab_6.vcxproj -> D:\КПІ\Programming\C++\Debug\Lab_6.exe
