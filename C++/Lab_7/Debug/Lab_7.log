@@ -1,0 +1,4 @@
+﻿  Lab_7.cpp
+D:\КПІ\Programming\C++\Lab_7\Lab_7.cpp(48,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\КПІ\Programming\C++\Lab_7\Lab_7.cpp(79,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_7.vcxproj -> D:\КПІ\Programming\C++\Debug\Lab_7.exe
